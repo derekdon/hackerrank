@@ -5,7 +5,7 @@ _Had to use JavaScript and react@16.3.0 as package.json is read only. Using Type
 
 ## Example
 
-![Stock Data Walkthrough](https://github.com/derekdon/hackerrank/blob/main/stockDataPreview.gif?raw=true)
+![Stock Data Walkthrough](https://raw.githubusercontent.com/derekdon/hackerrank/main/stockData/stockDataPreview.gif)
 
 ## API to hit
 
