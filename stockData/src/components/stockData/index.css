@@ -1,0 +1,18 @@
+.searchForm {
+}
+
+.searchInput {
+}
+
+.searchInput::placeholder {
+    font-style: var(--placeholder-font-style, italic);
+    color: var(--placeholder-color, lightgray);
+}
+
+.searchInputInvalid,
+.searchInputInvalid:focus {
+    border-color: var(--invalid-color, red);
+}
+
+.searchButton {
+}

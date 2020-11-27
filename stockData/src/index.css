@@ -1,0 +1,7 @@
+@import '../node_modules/h8k-design/dist/index.css';
+
+:root {
+    --placeholder-font-style: italic;
+    --placeholder-color: #c9c9c9;
+    --invalid-color: #ff374e;
+}
